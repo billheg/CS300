@@ -1,0 +1,3 @@
+C:/Users/Magnum/Documents/SNHU/5 CS300 24EW3 Data Structures and Algo/Proj2/cmake-build-debug/CMakeFiles/Proj2.dir
+C:/Users/Magnum/Documents/SNHU/5 CS300 24EW3 Data Structures and Algo/Proj2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Magnum/Documents/SNHU/5 CS300 24EW3 Data Structures and Algo/Proj2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
